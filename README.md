@@ -1,7 +1,8 @@
 # Flight Probability
 
 ## Banner:
-<img src="https://drive.google.com/file/d/10Mt3wQmbqBZVx0KRLTkfepaB8VeskYBV/view?usp=share_link">
+![Banner Flight Probability](https://github.com/DiegoEsteban07/Proyecto_Inteligencia_Artificial/blob/main/FLIGHT.2.png)
+
 
 ## Autores:
 Esteban David Florez, Juan Diego Esteban Parra, Jesus Dario Villamizar
